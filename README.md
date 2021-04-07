@@ -11,11 +11,11 @@
 
 ## About me 
 
-:heart: 开源| :black_heart: 极客 | :blue_heart: Linux
+❤️ 开源| 🖤 极客 | 📺 Linux
 
-- :earth_americas:  海南-海口
-- :video_game:  like 极客开源
-- :gem:  like 树莓派
+- 🌐  海南-海口
+- 💻  like 极客开源
+- 🍓  like 树莓派
 
 
 ## Reach me 
