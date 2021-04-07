@@ -1,7 +1,7 @@
 <img align="right" width="300" height="300" src="https://img-1251747095.file.myqcloud.com/img/20200619141328.png">
 
 
-# Hi, I'm [SAn!](https://sanii.cn) 👋.
+# Hi, I'm [SoulNull!](https://soulnull.com/) 👋.
 
 后端 | 软件工程师 🤖
 
@@ -11,7 +11,7 @@
 
 ## About me 
 
-:heart: 旅游| :black_heart: 极客 | :blue_heart: DIY
+:heart: 开源| :black_heart: 极客 | :blue_heart: Linux
 
 - :earth_americas:  海南-海口
 - :video_game:  like 极客开源
