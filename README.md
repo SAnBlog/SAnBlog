@@ -7,7 +7,7 @@
 
 前Quanr工程师 :man_technologist:
 
-主用国内Git管理平台：[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-SAnBlog-red)](https://gitee.com/SAnBlog)
+主用国内Git管理平台：[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-SAnBlog-red)](https://gitee.com/soulnull)
 
 ## About me 
 
@@ -20,7 +20,7 @@
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/SAnBlog?label=Github&style=social)](https://github.com/SAnBlog)
-[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-SAnBlog-red)](https://gitee.com/SAnBlog)
+[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-soulnull-red)](https://gitee.com/soulnull)
 [![Blog](https://img.shields.io/badge/Blog-SAnBlog-blue)](https://sanii.cn/)
 [![小程序](https://img.shields.io/badge/小程序-SAnBlog-green)](https://app.sanii.cn/)
 [![公众号](https://img.shields.io/badge/公众号-SAnBlog-green)](https://app.sanii.cn/)
