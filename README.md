@@ -7,7 +7,7 @@
 
 前Quanr工程师 :man_technologist:
 
-主用国内Git管理平台：[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-SAnBlog-red)](https://gitee.com/soulnull)
+主用国内Git管理平台：[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-soulnull-red)](https://gitee.com/soulnull)
 
 ## About me 
 
