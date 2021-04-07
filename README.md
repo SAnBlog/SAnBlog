@@ -24,7 +24,7 @@
 [![Blog](https://img.shields.io/badge/Blog-SAnBlog-blue)](https://sanii.cn/)
 [![小程序](https://img.shields.io/badge/小程序-SAnBlog-green)](https://app.sanii.cn/)
 [![公众号](https://img.shields.io/badge/公众号-SAnBlog-green)](https://app.sanii.cn/)
-[![Mail](https://img.shields.io/badge/-email-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:1300100082@qq.com)
+[![Mail](https://img.shields.io/badge/gmail-1300100082@qq.com-red)](mailto:1300100082@qq.com)
 
 ### Interesting stats
 
