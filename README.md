@@ -3,15 +3,15 @@
 
 # Hi, I'm [SoulNull!](https://soulnull.com/) 👋.
 
-后端 | 软件工程师 🤖
+后端 | 软件工程师 💻
 
-前Quanr工程师 :man_technologist:
+前Quanr工程师 🧑🏻‍💻
 
 主用国内Git管理平台：[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-soulnull-red)](https://gitee.com/soulnull)
 
 ## About me 
 
-❤️ 开源| 🖤 极客 | 📺 Linux
+🧑🏻‍💻 开源| 👽 极客 | 📺 Linux
 
 - 🌐  海南-海口
 - 💻  like 极客开源
