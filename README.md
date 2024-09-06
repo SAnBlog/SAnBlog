@@ -17,4 +17,6 @@
 - 👽  like LLM
 - 🍓  like Linux
 
+Thanks for stopping by! 😁
+
 ---
