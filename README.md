@@ -7,7 +7,7 @@
 
 前Quanr工程师 🧑🏻‍💻
 
-主用国内Git管理平台：[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-soulnull-red)](https://gitee.com/soulnull)
+Gitee：[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-soulnull-red)](https://gitee.com/soulnull)
 
 ## About me 
 
