@@ -5,9 +5,8 @@
 
 后端 | 软件工程师 💻
 
-前Quanr工程师 🧑🏻‍💻
+前驼厂工程师 🧑🏻‍💻
 
-Gitee：[![码云](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-soulnull-red)](https://gitee.com/soulnull)
 
 ## About me 
 
